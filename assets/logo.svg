@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 56" fill="none">
+  <!-- Leaf / balance mark -->
+  <path d="M24 8 C24 8 8 20 8 32 C8 42 15 48 24 48 C33 48 40 42 40 32 C40 20 24 8 24 8Z"
+        fill="#4A7C59" opacity="0.9"/>
+  <path d="M24 8 C24 8 40 20 40 32 C40 42 33 48 24 48"
+        fill="#2D4A3E" opacity="0.6"/>
+  <line x1="24" y1="28" x2="24" y2="50" stroke="#2D4A3E" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Text -->
+  <text x="52" y="26" font-family="Georgia, serif" font-size="18" font-weight="400"
+        fill="#2D4A3E" letter-spacing="-0.3">feel</text>
+  <text x="52" y="44" font-family="Georgia, serif" font-size="18" font-weight="400"
+        fill="#4A7C59" letter-spacing="-0.3">balance</text>
+</svg>
